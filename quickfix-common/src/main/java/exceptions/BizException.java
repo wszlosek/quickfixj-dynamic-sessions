@@ -1,7 +1,7 @@
 package exceptions;
 
 
-import com.bevis.enums.BizExceptionCodeEnum;
+import com.xtb.wojtek.enums.BizExceptionCodeEnum;
 import lombok.Data;
 
 /**
